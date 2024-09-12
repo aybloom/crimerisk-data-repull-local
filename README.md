@@ -19,7 +19,7 @@ Re-pull Crimerisk data without the ACMT
 
 8.	Once it completes pulling the data, it will check the completeness of the data pull. 
 
-
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/c8edbced-e8a5-4b53-988a-2201676b5bde">
 
 9.	The dataset_crimerisk.csv file is saved in your crimerisk data repull folder. Share this file with the OneDrive link shared with you (email Maya or Muna if you need the OneDrive link again). 
 
