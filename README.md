@@ -14,7 +14,7 @@ Re-pull Crimerisk data without the ACMT
  
 7.	Eventually, you will start to see the data pull progress posted in the Console: 
  
-![image](https://github.com/user-attachments/assets/5f131ad6-cbc8-48bd-ae26-4a6bff7e3dce)
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/de3cd04e-0ca5-4655-91f7-207068774b55">
 
 
 8.	Once it completes pulling the data, it will check the completeness of the data pull. 
