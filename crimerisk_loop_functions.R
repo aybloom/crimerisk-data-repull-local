@@ -9,7 +9,7 @@ create_dataset<-function(variable_list=variable_list){
 }
 
 load_crimerisk<-function(){
-  dataset_crimerisk<-read.csv('~/workspace/Inspace/data_pull_measures/dataset_crimerisk.csv')%>%dplyr::select(crimerisk_vars[1]:radius)
+  dataset_crimerisk<-read.csv('dataset_crimerisk.csv')%>%dplyr::select(crimerisk_vars[1]:radius)
   return(dataset_crimerisk)
 }
 
