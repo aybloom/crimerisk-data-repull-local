@@ -1,4 +1,6 @@
 ### Re-pull Crimerisk data ####
+#install package rstudio api:
+install.packages('rstudioapi')
 
 # set up directory and filepath
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
